@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OreToRefinery", "OreToRefinery\OreToRefinery.csproj", "{F00B3791-2634-4F30-86C9-6F8D457E4BDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F00B3791-2634-4F30-86C9-6F8D457E4BDD}.Debug|x64.ActiveCfg = Debug|x64
+		{F00B3791-2634-4F30-86C9-6F8D457E4BDD}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB9C049A-790F-4A6F-AF71-923119DBE49A}
+	EndGlobalSection
+EndGlobal
